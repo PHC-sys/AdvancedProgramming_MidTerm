@@ -1,5 +1,5 @@
 # AdvancedProgramming_MidTerm
-#Team member: 2019147006, 2019147027, 2019147043
+Team member: 2019147006, 2019147027, 2019147043
 
 Non-Commercial Purpose, Academic Purpose Coding
 
